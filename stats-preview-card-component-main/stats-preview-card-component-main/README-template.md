@@ -15,8 +15,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ![](./screenshot.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Site](https://www.frontendmentor.io/solutions/stats-preview-card-component-7XxHyEOnH)
+- Live Site URL: [Live Site](https://stats-preview-card-component-by-zubershk.netlify.app/)
 
 ## My process
 
